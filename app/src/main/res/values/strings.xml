@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitPluginTest</string>
+
+    <string name="log1">创建项目</string>
+</resources>
